@@ -13,3 +13,6 @@
 ```
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 50vh; left: 50vw; width: 125px; height: 125px; transform: translate(-50%, -50%); background: url('https://avatars.githubusercontent.com/u/106784368?v=4'); animation: 0.5s shrink-x infinite linear alternate; background-size: 100% 100%; background-repeat: no-repeat; background-position: center center;]{x0000}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 45vh; left: 70vw; width: 477px; height: 504px; background: url('https://github.com/be195/be195/blob/main/window.jpg?raw=true'); background-size: 100% 100%; background-repeat: no-repeat; background-position: center center; box-shadow: 0px 4px 8px -2px rgba(0,0,0,0.75);]{x0000}$}
